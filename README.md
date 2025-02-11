@@ -1,1 +1,1 @@
-Jogo para adivinhar a palavra secreta, feito em python
+Jogo para adivinhar uma palavra secreta, feito em python
